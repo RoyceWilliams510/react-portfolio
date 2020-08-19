@@ -25,7 +25,7 @@ function Navigation() {
                         <li><a href="/projects" className="black-text">View Projects</a></li>
                         <li><a href="/contact" className="black-text">Contact Me</a></li>
                         <li><a href="/" className="black-text">About Me</a></li>
-                        <li><a href="../../assets/Royce_Williams_Resume.PDF" className="black-text">Resume</a></li>
+                        <li><a href="./images/Royce_Williams_Resume.PDF" className="black-text">Resume</a></li>
 
                     </ul>
                 </div>
